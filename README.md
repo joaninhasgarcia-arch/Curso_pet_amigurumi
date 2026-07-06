@@ -15,10 +15,11 @@ O pacote contém somente:
 2. Gatinhos — 10 videoaulas
 3. Materiais de apoio em PDF — acesso à pasta do Google Drive
 4. Marketing, vendas e precificação — 10 videoaulas
+5. Fotos que encantam, vendas que acontecem! — 7 videoaulas
 
-Total: 47 videoaulas.
+Total: 54 videoaulas.
 
-A nova seção de marketing inclui conteúdos sobre:
+A seção de marketing inclui conteúdos sobre:
 
 - perfil de vendas no Instagram;
 - erros que prejudicam as vendas;
@@ -30,10 +31,19 @@ A nova seção de marketing inclui conteúdos sobre:
 - embalagens;
 - envio para outros estados.
 
+A quinta seção ensina fotografia de amigurumis, incluindo:
+
+- técnicas para economizar tempo ao fotografar;
+- composição de cenário;
+- organização visual do feed;
+- fotos com aparência profissional;
+- estilos de fotografia para atrair encomendas;
+- uso das fotos para vender mais.
+
 ## Publicar no GitHub
 
-1. Crie um repositório novo.
-2. Extraia o ZIP.
+1. Extraia o ZIP.
+2. Crie um repositório novo no GitHub.
 3. Envie `index.html` e `README.md` para a raiz do repositório.
 4. Faça o commit.
 
@@ -59,6 +69,6 @@ Mantenha a pasta configurada como **Qualquer pessoa com o link — Leitor**.
 
 ## Observações
 
-- As quatro imagens de capa estão incorporadas no `index.html`.
+- As cinco imagens de capa estão incorporadas no `index.html`.
 - As miniaturas e os players dependem da internet e do YouTube.
 - Se o proprietário de um vídeo bloquear a reprodução incorporada, o vídeo poderá não tocar dentro da página.
