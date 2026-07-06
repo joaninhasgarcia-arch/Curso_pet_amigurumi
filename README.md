@@ -45,3 +45,15 @@ Como o site é estático, o Vercel publicará diretamente o `index.html`.
 - As miniaturas e os players são carregados pelo YouTube.
 - A plataforma precisa de internet para reproduzir as videoaulas.
 - Se o proprietário de algum vídeo bloquear a incorporação em sites externos, esse vídeo poderá continuar indisponível dentro da plataforma, mesmo que abra normalmente no YouTube.
+
+## Materiais de apoio em PDF
+
+A página inicial também contém o card **Materiais de apoio em PDF**.
+
+Ao tocar no botão, a pasta de receitas abre em uma nova guia:
+
+https://drive.google.com/drive/folders/13g83rN3_KlJ5KprMgIONk5CWuVGxTrI0
+
+A imagem de capa dos materiais foi incorporada diretamente no `index.html`, portanto não é necessária uma pasta de imagens no repositório.
+
+Observação: para que os alunos consigam abrir os PDFs, mantenha a pasta do Google Drive configurada como **Qualquer pessoa com o link — Leitor**.
